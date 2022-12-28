@@ -6,3 +6,5 @@ Daftar biodata siswa dicoding academy
 - angkatan 2019
 - angkatan 2020
 - angkatan 2021
+
+latihan conflict 2
